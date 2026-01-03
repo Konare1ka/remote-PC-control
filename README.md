@@ -36,7 +36,8 @@ Plugins are scripts written in bash/batch (depending on your OS) that are called
 >Ex. file `help.sh` - command in bot `/help`
 
 Plugins can only be accessed by the user specified in config. However, publicly accessible plugins can be specified in third config field,\
-like ["help", "getFile", "music"]
+> like ["help", "getFile", "music"]
+> 
 The second line of plugin should be a comment describing plugin
 
 ### Help plugin
@@ -63,4 +64,5 @@ And to process arguments in the plugin you need to use %1 - arg1, %2 - arg2, etc
 ## In future
 
 In the future I will add a system for automatically creating a service/daemon
+
 
