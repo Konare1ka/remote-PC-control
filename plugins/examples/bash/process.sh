@@ -9,5 +9,5 @@ if [[ -n "$1" ]]; then
     fi
 else
     echo Specify name of process
-    echo Ex. /system bash
+    echo Ex. /process bash
 fi
