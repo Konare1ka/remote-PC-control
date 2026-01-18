@@ -61,9 +61,10 @@ And to process arguments in the plugin you need to use %1 - arg1, %2 - arg2, etc
 >An example of using arguments is in the examples, the name of the script is shareFiles
 >
 
-## In future
+## Service
 
-In the future I will add a system for automatically creating a service/daemon
+You can install the autorun service on windows using the NSSM (Non sucking service manager) program or on linux (search on the Internet)
+
 
 
 
