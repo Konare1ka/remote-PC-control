@@ -9,5 +9,6 @@ if not "%~1" == "" (
     )
 ) else ( 
     echo Specify name of process
-    echo Ex. /system cmd.exe
+    echo Ex. /process cmd.exe
+
     )
